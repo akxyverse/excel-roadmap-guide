@@ -8,6 +8,11 @@
 ![Skills](https://img.shields.io/badge/Skills-30-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
+![GitHub stars](https://img.shields.io/github/stars/akxyverse/excel-roadmap?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/akxyverse/excel-roadmap?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/akxyverse/excel-roadmap?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/akxyverse/excel-roadmap?style=for-the-badge)
+
 <sub>Built by <a href="https://www.linkedin.com/in/akash-yadav-122a75288/">Akash Yadav</a> · ⭐ Star this repo if it helps you</sub>
 
 </div>
@@ -33,16 +38,20 @@
 <td valign="top" width="50%">
 
 - [🎯 Who This Is For](#-who-this-is-for)
+- [🎓 What You'll Learn](#-what-youll-learn)
 - [🪜 The 4 Levels](#-the-4-levels)
+- [📈 Skill Progress](#-skill-progress)
+- [🗺️ Roadmap Flow](#️-roadmap-flow)
 - [📖 Full Breakdown](#-full-breakdown)
-- [🚀 How to Use This](#-how-to-use-this)
 
 </td>
 <td valign="top" width="50%">
 
-- [🧭 What's Next](#-whats-next-after-this-roadmap)
+- [🚀 How to Use This](#-how-to-use-this)
+- [📚 Recommended Resources](#-recommended-resources)
+- [📂 Practice Projects](#-practice-projects)
 - [❓ FAQ](#-faq)
-- [📄 Download](#-download)
+- [📥 Download](#-download)
 - [👤 About the Author](#-about-the-author)
 
 </td>
@@ -62,6 +71,20 @@
 
 ---
 
+## 🎓 What You'll Learn
+
+By completing this roadmap, you'll be able to:
+
+✅ Analyze datasets confidently
+✅ Build professional Excel dashboards
+✅ Use lookup, logical, and statistical functions
+✅ Clean messy business data
+✅ Automate repetitive work
+✅ Prepare data for Power BI and SQL
+✅ Be interview-ready for Data Analyst roles
+
+---
+
 ## 🪜 The 4 Levels
 
 <div align="center">
@@ -76,6 +99,35 @@
 **`30 skills` · `4 levels` · `1 workbook of knowledge`**
 
 </div>
+
+---
+
+## 📈 Skill Progress
+
+```
+🟩 Level 1 — Basic          ████████░░░░░░░░░░░░  25%
+🟨 Level 2 — Intermediate   ████████████░░░░░░░░  50%
+🟧 Level 3 — Advanced       ████████████████░░░░  75%
+🟦 Level 4 — Data Analyst   ████████████████████ 100%
+```
+
+## 🗺️ Roadmap Flow
+
+```text
+   Basics
+     ↓
+  Functions
+     ↓
+  Lookups
+     ↓
+ Pivot Tables
+     ↓
+ Power Query
+     ↓
+ Dashboards
+     ↓
+  Power BI / SQL
+```
 
 ---
 
@@ -133,12 +185,24 @@
 5. Finish Level 4             → you're ready for Power BI & SQL
 ```
 
-## 🧭 What's Next After This Roadmap
+## 📚 Recommended Resources
 
-- 📊 **Power BI** — DAX & data modeling transfer almost directly from Level 3–4
-- 🗄️ **SQL** — `SELECT`, `JOIN`, `GROUP BY` map closely to what you already do in Excel
-- 🧩 **2–3 portfolio projects** — use real public datasets (Kaggle, gov open-data portals)
-- 📮 **Start applying** — once you have projects to show
+- [Microsoft Learn — Excel](https://learn.microsoft.com/en-us/training/browse/?products=excel)
+- [ExcelJet](https://exceljet.net/)
+- Leila Gharani (YouTube)
+- XelPlus (YouTube)
+- Practice datasets: [Kaggle](https://www.kaggle.com/datasets), government open-data portals
+
+## 📂 Practice Projects
+
+Apply each level with a real project:
+
+✔ Sales Dashboard
+✔ HR Analytics Dashboard
+✔ Personal Finance Tracker
+✔ Inventory Dashboard
+✔ Student Performance Analysis
+✔ Customer Churn Analysis
 
 ## ❓ FAQ
 
@@ -160,13 +224,20 @@ Levels 1–2 work fine in Google Sheets. Power Query, Power Pivot, and VBA (Leve
 Skim each level's topic list first — it's common to have gaps in a level you think you "know."
 </details>
 
-## 📄 Download
+## 📥 Download
 
 <div align="center">
 
-[![Download PDF](https://img.shields.io/badge/⬇️_Download-Full_PDF-green?style=for-the-badge)](excel-roadmap.pdf)
+[![Download PDF](https://img.shields.io/badge/📄_Download-PDF-green?style=for-the-badge)](excel-roadmap.pdf)
+[![Cover Image](https://img.shields.io/badge/🖼️_View-Cover_Image-blue?style=for-the-badge)](01-cover.png)
 
 </div>
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=akxyverse/excel-roadmap&type=Date)](https://star-history.com/#akxyverse/excel-roadmap&Date)
 
 ---
 
@@ -176,7 +247,19 @@ Skim each level's topic list first — it's common to have gaps in a level you t
 
 ### Akash Yadav
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;EDA+%7C+Dashboards+%7C+Storytelling;Always+Learning+New+Data+Tools+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
 Built this roadmap to give a clear, ordered path for learning Excel with data analysis as the goal.
+
+**🎯 Aspirant Data Analyst** · 📍 India 🇮🇳 · 🔭 Focus: Data Cleaning · EDA · Visualization · Dashboards
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
 [![Gmail](https://img.shields.io/badge/Email-akashydav110502%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashydav110502@gmail.com)
@@ -200,7 +283,11 @@ Free to use, share, and adapt for personal or educational purposes. Attribution 
 
 <div align="center">
 
-**Master Excel. Become data driven.**
+⭐ Learn Excel the right way.
+📊 Build real projects.
+🚀 Become a Data Analyst.
+
+**Happy Learning!**
 
 Made with 💚 by [Akash Yadav](https://www.linkedin.com/in/akash-yadav-122a75288/)
 
