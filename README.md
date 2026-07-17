@@ -8,10 +8,10 @@
 ![Skills](https://img.shields.io/badge/Skills-30-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
-![GitHub stars](https://img.shields.io/github/stars/akxyverse/excel-roadmap?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/akxyverse/excel-roadmap?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/akxyverse/excel-roadmap?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/akxyverse/excel-roadmap?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/akxyverse/excel-roadmap-guide?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/akxyverse/excel-roadmap-guide?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/akxyverse/excel-roadmap-guide?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/akxyverse/excel-roadmap-guide?style=for-the-badge)
 
 <sub>Built by <a href="https://www.linkedin.com/in/akash-yadav-122a75288/">Akash Yadav</a> · ⭐ Star this repo if it helps you</sub>
 
@@ -106,17 +106,12 @@ By completing this roadmap, you'll be able to:
 
 <div align="center">
 
-**🌱 Level 1 — Basic**
-![Level 1 Progress](https://progress-bar.dev/25/?title=Complete&width=400&color=8bc34a)
-
-**🔗 Level 2 — Intermediate**
-![Level 2 Progress](https://progress-bar.dev/50/?title=Complete&width=400&color=4caf50)
-
-**⚡ Level 3 — Advanced**
-![Level 3 Progress](https://progress-bar.dev/75/?title=Complete&width=400&color=ff9800)
-
-**🏆 Level 4 — Data Analyst**
-![Level 4 Progress](https://progress-bar.dev/100/?title=Complete&width=400&color=2e7d32)
+| Level | Progress |
+|---|---|
+| 🌱 Level 1 — Basic | ![25%](https://img.shields.io/badge/Complete-25%25-8bc34a?style=for-the-badge) |
+| 🔗 Level 2 — Intermediate | ![50%](https://img.shields.io/badge/Complete-50%25-4caf50?style=for-the-badge) |
+| ⚡ Level 3 — Advanced | ![75%](https://img.shields.io/badge/Complete-75%25-ff9800?style=for-the-badge) |
+| 🏆 Level 4 — Data Analyst | ![100%](https://img.shields.io/badge/Complete-100%25-2e7d32?style=for-the-badge) |
 
 </div>
 
@@ -246,7 +241,7 @@ Skim each level's topic list first — it's common to have gaps in a level you t
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=akxyverse/excel-roadmap&type=Date)](https://star-history.com/#akxyverse/excel-roadmap&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=akxyverse/excel-roadmap-guide&type=Date)](https://star-history.com/#akxyverse/excel-roadmap-guide&Date)
 
 ---
 
