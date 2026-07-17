@@ -1,2 +1,50 @@
-# excel-roadmap-guide
-A step-by-step Excel roadmap from basics to advanced — 30 skills across 4 levels, built for aspiring data analysts.
+# 📊 The Excel Roadmap — Basic to Advanced
+
+A step-by-step learning path for aspiring data analysts. 30 skills across 4 levels, from Excel basics to Power BI/SQL handoff.
+
+![Excel Roadmap Cover](images/01-cover.png)
+
+## 📖 Full Roadmap
+
+<details>
+<summary><b>Level 1 — Basic (Foundations)</b></summary>
+<br>
+
+![Level 1](images/02-basic.png)
+</details>
+
+<details>
+<summary><b>Level 2 — Intermediate (Logic & Lookups)</b></summary>
+<br>
+
+![Level 2](images/03-intermediate.png)
+</details>
+
+<details>
+<summary><b>Level 3 — Advanced (Modeling & Automation)</b></summary>
+<br>
+
+![Level 3](images/04-advanced.png)
+</details>
+
+<details>
+<summary><b>Level 4 — Data Analyst (Specialization)</b></summary>
+<br>
+
+![Level 4](images/05-data-analyst.png)
+</details>
+
+<details>
+<summary><b>Wrap-up</b></summary>
+<br>
+
+![Closing](images/06-closing.png)
+</details>
+
+## 📄 Download
+
+[⬇️ Download the full PDF](excel-roadmap.pdf)
+
+---
+
+⭐ If this helped you, consider starring the repo!
