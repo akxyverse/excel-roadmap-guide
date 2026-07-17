@@ -25,7 +25,7 @@
 
 <div align="center">
 
-![Excel Roadmap Cover](01-cover.png)
+<img src="01-cover.png" width="600">
 
 </div>
 
@@ -142,7 +142,7 @@ By completing this roadmap, you'll be able to:
 
 `Interface & navigation` `Data entry & formatting` `Basic formulas` `Cell references` `Sorting & filtering` `Basic charts` `Page setup & printing`
 
-![Level 1](02-basic.png)
+<img src="02-basic.png" width="600">
 
 <br>
 
@@ -151,7 +151,7 @@ By completing this roadmap, you'll be able to:
 
 `Logical functions` `VLOOKUP / INDEX-MATCH` `Text functions` `Date & time functions` `Conditional formatting` `Data validation` `PivotTables` `What-if analysis`
 
-![Level 2](03-intermediate.png)
+<img src="03-intermediate.png" width="600">
 
 <br>
 
@@ -160,7 +160,7 @@ By completing this roadmap, you'll be able to:
 
 `XLOOKUP` `SUMIFS / COUNTIFS` `Power Query` `Power Pivot` `Intro to DAX` `Advanced PivotTables` `Macros & VBA` `Dashboard design`
 
-![Level 3](04-advanced.png)
+<img src="04-advanced.png" width="600">
 
 <br>
 
@@ -169,13 +169,13 @@ By completing this roadmap, you'll be able to:
 
 `Data cleaning at scale` `Statistical functions` `Advanced DAX` `Interactive dashboards` `Deeper automation` `Data storytelling` `Power BI & SQL handoff`
 
-![Level 4](05-data-analyst.png)
+<img src="05-data-analyst.png" width="600">
 
 <br>
 
 ### ✅ Wrap-up & Tips
 
-![Closing](06-closing.png)
+<img src="06-closing.png" width="600">
 
 ---
 
