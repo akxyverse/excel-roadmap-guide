@@ -142,7 +142,9 @@ By completing this roadmap, you'll be able to:
 
 `Interface & navigation` `Data entry & formatting` `Basic formulas` `Cell references` `Sorting & filtering` `Basic charts` `Page setup & printing`
 
+<div align="center">
 <img src="02-basic.png" width="600">
+</div>
 
 <br>
 
@@ -151,7 +153,9 @@ By completing this roadmap, you'll be able to:
 
 `Logical functions` `VLOOKUP / INDEX-MATCH` `Text functions` `Date & time functions` `Conditional formatting` `Data validation` `PivotTables` `What-if analysis`
 
+<div align="center">
 <img src="03-intermediate.png" width="600">
+</div>
 
 <br>
 
@@ -160,7 +164,9 @@ By completing this roadmap, you'll be able to:
 
 `XLOOKUP` `SUMIFS / COUNTIFS` `Power Query` `Power Pivot` `Intro to DAX` `Advanced PivotTables` `Macros & VBA` `Dashboard design`
 
+<div align="center">
 <img src="04-advanced.png" width="600">
+</div>
 
 <br>
 
@@ -169,13 +175,17 @@ By completing this roadmap, you'll be able to:
 
 `Data cleaning at scale` `Statistical functions` `Advanced DAX` `Interactive dashboards` `Deeper automation` `Data storytelling` `Power BI & SQL handoff`
 
+<div align="center">
 <img src="05-data-analyst.png" width="600">
+</div>
 
 <br>
 
 ### ✅ Wrap-up & Tips
 
+<div align="center">
 <img src="06-closing.png" width="600">
+</div>
 
 ---
 
