@@ -104,12 +104,21 @@ By completing this roadmap, you'll be able to:
 
 ## 📈 Skill Progress
 
-```
-🟩 Level 1 — Basic          ████████░░░░░░░░░░░░  25%
-🟨 Level 2 — Intermediate   ████████████░░░░░░░░  50%
-🟧 Level 3 — Advanced       ████████████████░░░░  75%
-🟦 Level 4 — Data Analyst   ████████████████████ 100%
-```
+<div align="center">
+
+**🌱 Level 1 — Basic**
+![Level 1 Progress](https://progress-bar.dev/25/?title=Complete&width=400&color=8bc34a)
+
+**🔗 Level 2 — Intermediate**
+![Level 2 Progress](https://progress-bar.dev/50/?title=Complete&width=400&color=4caf50)
+
+**⚡ Level 3 — Advanced**
+![Level 3 Progress](https://progress-bar.dev/75/?title=Complete&width=400&color=ff9800)
+
+**🏆 Level 4 — Data Analyst**
+![Level 4 Progress](https://progress-bar.dev/100/?title=Complete&width=400&color=2e7d32)
+
+</div>
 
 ## 🗺️ Roadmap Flow
 
@@ -246,20 +255,9 @@ Skim each level's topic list first — it's common to have gaps in a level you t
 <div align="center">
 
 ### Akash Yadav
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;EDA+%7C+Dashboards+%7C+Storytelling;Always+Learning+New+Data+Tools+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+**Aspiring Data Analyst**
 
 Built this roadmap to give a clear, ordered path for learning Excel with data analysis as the goal.
-
-**🎯 Aspirant Data Analyst** · 📍 India 🇮🇳 · 🔭 Focus: Data Cleaning · EDA · Visualization · Dashboards
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
 [![Gmail](https://img.shields.io/badge/Email-akashydav110502%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashydav110502@gmail.com)
